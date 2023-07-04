@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Treffy10
+-  I’m interested in programing in c++,java,python and javascript
+-  I'm new here
